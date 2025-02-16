@@ -1,3 +1,13 @@
+title: Yachting Cincept Safety Management System
+email: christophe@yachtingconceptmonaco.com
+description: >-
+	The ISM Code establishes safety-management objectives and requires a safety management system (SMS) to be established by **Yachting Concept Monaco** who has assumed the responsibility for operating yachts (>500GT) and has agreed to take over all duties and responsibility imposed by the Code. The purpose of the **International Safety Management** (ISM) Code is to provide an international standard for the safe management and operation of ships and for pollution prevention. 
+minimal_mistakes_skin: default
+search: true
+
+markdown: kramdown
+remote_theme: mistakes/minimal-mistakes
+
 plugins:
   - jekyll-relative-links
 relative_links:
