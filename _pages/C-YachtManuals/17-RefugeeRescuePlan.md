@@ -10,11 +10,11 @@ Vessels that rescue people are responsible for their well-being and proper manag
 
 C17_PrinciplaRoutes.png
 
-**SOLAS Chapter V Regulation 33.1**
+### SOLAS Chapter V Regulation 33.1
 
 “*The master of a ship at sea which is in a position to be able to provide assistance, on receiving information from any source that persons are in distress at sea, is bound to proceed with all speed to their assistance, if possible informing them or the search and rescue service that the ship is doing so. This obligation to provide assistance applies regardless of the nationality or status of such persons or the circumstances in which they are found. If the ship receiving the distress alert is unable to proceed to their assistance, the master must enter in the log-book the reason for failing to proceed to the assistance of the persons in distress, taking into account the recommendation of the Organisation to inform the appropriate search and rescue service accordingly.”*
 
-**SOLAS Chapter V Regulation 33.6**
+### SOLAS Chapter V Regulation 33.6
 
 *“Masters of ships who have embarked persons in distress at sea shall treat them with humanity, within the capabilities and limitations of the ship.”*
 
@@ -328,7 +328,7 @@ Ensure that communication, including social media use, is controlled by the shor
 | 1.1.    | 16 Feb 2025 | Christophe Guegan | Upgrade format.  |
 
 ---
-Annotations: 0,23869 SHA-256 3d71904d73be61f1cf49f27775766eda  
+Annotations: 0,23869 SHA-256 8c24ee7672e5299b608f3713dff28a58  
 &Writing Tools: 29,5 42,62 108,2 115 122 136,5 152,230 392,16  
-@Christophe Guegan <Yachting Concept Monaco>: 34,8 141,11 382,10 408 1051,23 2974,5 3650,4 3976,5 4354,6 4711,6 5769 5979 6272 6547,2 6557,2 6826,5 7654,5 9519,2 9533 9535,2 9583,2 9635,2 9674,2 9726,2 11512,5 12986,5 15134,5 15145 16058,6 16480,5 16722,6 16941,5 16959 17278,5 17737,5 19717,5 20109,5 20350,5 20896,5 21404,5 21864,5 22281,4 22306,6 23016,8 23050 23052,4 23096 23565,26 23625,7 23641,11 23679,4 23689,8 23702,3 23706,11 23722,13 23745,4 23799,2 23803,27 23847,22  
+@Christophe Guegan <Yachting Concept Monaco>: 34,8 141,11 382,10 408 1051,23 1075,5 1896,5 2974,5 3650,4 3976,5 4354,6 4711,6 5769 5979 6272 6547,2 6557,2 6826,5 7654,5 9519,2 9533 9535,2 9583,2 9635,2 9674,2 9726,2 11512,5 12986,5 15134,5 15145 16058,6 16480,5 16722,6 16941,5 16959 17278,5 17737,5 19717,5 20109,5 20350,5 20896,5 21404,5 21864,5 22281,4 22306,6 23016,8 23050 23052,4 23096 23565,26 23625,7 23641,11 23679,4 23689,8 23702,3 23706,11 23722,13 23745,4 23799,2 23803,27 23847,22  
 ...
