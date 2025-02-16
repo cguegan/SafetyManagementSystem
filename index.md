@@ -1,6 +1,6 @@
 ---
- [01-ContactsDetails.md](_pages/A-CompanyDocuments/01-ContactsDetails.md) layout: single
-author_profile: true
+layout: single
+author_profile: false
 ---
 
 
