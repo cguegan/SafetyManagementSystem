@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-ycm_Logo.png
+ycm_logo.png
 
 # Safety Management System
 
