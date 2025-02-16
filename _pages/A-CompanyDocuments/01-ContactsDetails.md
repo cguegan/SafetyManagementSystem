@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: false
+---
+
 # 01 - Contacts Details
 
 A comprehensive contact directory containing emergency contacts, company structure, and contact details for Yachting Concept Monaco personnel. Includes 24/7 emergency numbers, Monaco office lines, and contact information for management, DPAs, yacht managers, and charter managers. Designed for quick reference in both emergency and routine situations.

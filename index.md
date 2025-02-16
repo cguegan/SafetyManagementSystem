@@ -15,6 +15,4 @@ This set of documentation is strongly protected by copyright laws and belongs to
 
 ## A - Company Documents
 
-- [01 - Contact Details](/_pages/A-CompanyDocuments/01-ContactDetails)
-
-- [01-ContactsDetails.md](_pages/A-CompanyDocuments/01-ContactsDetails.md) 
+- [01 - Contacts Details](_pages/A-CompanyDocuments/01-ContactsDetails.md) 
