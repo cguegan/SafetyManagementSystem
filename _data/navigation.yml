@@ -1,9 +1,9 @@
 main:
-  - title: "Background"
+  - title: "A - Company Documents"
     url: /background/
-  - title: "Posts"
+  - title: "B - Safety Management Manual"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+  - title: "C - Standing Orders"
     url: /tags/
+  - title: "D - Yacht Manuals"
+    url: /categories/
