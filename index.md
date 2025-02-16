@@ -1,9 +1,11 @@
 ---
-layout: single
+ [01-ContactsDetails.md](_pages/A-CompanyDocuments/01-ContactsDetails.md) layout: single
 author_profile: true
 ---
 
-ycm_logo.png
+
+
+
 
 # Safety Management System
 
@@ -13,5 +15,6 @@ This set of documentation is strongly protected by copyright laws and belongs to
 
 ## A - Company Documents
 
-- [01 - Contact Details](A-CompanyDocuments/01-ContactDetails)
-- [[01-ContactsDetails]]
+- [01 - Contact Details](/_pages/A-CompanyDocuments/01-ContactDetails)
+
+- [01-ContactsDetails.md](_pages/A-CompanyDocuments/01-ContactsDetails.md) 
